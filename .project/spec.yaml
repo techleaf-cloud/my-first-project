@@ -88,7 +88,7 @@ execution:
     resources:
         gpu:
             requested: 1
-        sharedMemoryMB: 200
+        sharedMemoryMB: 0
     secrets: []
     mounts:
         - type: project

@@ -1,5 +1,5 @@
 # Project Name
-This project is ________. (Describe the main goals of the project. Limit to 1-2 sentences)
+This project is my intro. (The main goal of this project is to help me figure out the fundementals to the AI workspace and eventually other AI features including robotics item recognition, and AR world applications)  
 
 ## Description
 Optional section to provide a more detailed overview of the project.
